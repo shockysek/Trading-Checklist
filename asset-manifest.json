@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/trading-checklist/static/js/main.0b325c8e.js",
+    "index.html": "/trading-checklist/index.html",
+    "main.0b325c8e.js.map": "/trading-checklist/static/js/main.0b325c8e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0b325c8e.js"
+  ]
+}
